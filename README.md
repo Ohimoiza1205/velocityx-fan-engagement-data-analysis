@@ -110,11 +110,11 @@ Review the visualizations and insights generated.
 ### Contributing
 If you'd like to contribute to this project:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch-name).
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch-name).
-Create a Pull Request.
+#### Fork the repository.
+#### Create a new branch (git checkout -b feature-branch-name).
+#### Commit your changes (git commit -m 'Add some feature').
+#### Push to the branch (git push origin feature-branch-name).
+#### Create a Pull Request.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
