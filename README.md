@@ -1,4 +1,4 @@
-VeloCityX Fan Engagement Analysis
+## VeloCityX Fan Engagement Analysis
 This repository contains the data analysis and predictive modeling for the VeloCityX app, which focuses on improving fan engagement and monetization strategies in autonomous racing. The analysis explores user interactions with the app during racing events and aims to provide insights for optimizing fan challenges, virtual merchandise sales, and sponsorship integration.
 
 Table of Contents
